@@ -1,0 +1,51 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+       
+.card-body p a {
+	text-decoration: none;
+
+}
+
+.card-footer small a {
+	text-decoration: none;
+	font-size: 10px;
+}
+
+
+.list-group a {
+	text-decoration: none;
+}
+
+
+#shop_title {
+  background: -webkit-linear-gradient(#000076ff, #e40084ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.navbar-nav li a {
+	color: #fff !important;
+}
+
+.bg-dark {
+	background-image: linear-gradient(0deg, #000076ff, #e40084ff);
+}
+
+
+
+
+
+
+
+
+
