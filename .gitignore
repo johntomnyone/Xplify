@@ -1,5 +1,11 @@
-"/.build"
-/.build
-
-**/*.pyc
-*-env/
+.DS_Store
+*.pyc
+dist
+build
+skeleton.tar.gz
+Cactus.egg-info
+examples/blog/config.json
+*.egg
+.tox
+TestProject
+.eggs
